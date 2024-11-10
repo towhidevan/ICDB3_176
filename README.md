@@ -11,4 +11,3 @@ Tasks, Assignments, Projects for IC DevOps Batch 3
 - Upload assignment content to your directory
 - Create a pull request against the master branch from your forked repoed branch
 - Add a description of the PR
-- Change has been made by ICDB3_176
